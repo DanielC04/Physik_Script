@@ -1,5 +1,3 @@
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
-
 ## Stirling Motor
 1. Die unter Druck stehende Luft im Zylinder dehnt sich aus. Sie schiebt dabei den Arbeitskolben nach rechts. Die für diese Arbeit nötige Energie wird der Luft durch die Heizung zugeführt. Daher kühlt sich die Luft nicth ab; ihre Temperatur ist konstant (T_1). Der Verdrängerkolben bewegt sich kaum.
 2. Der Arbeitskolben befindet sich äußerst rechts und bewegt sich praktisch nicht. Durch die Drehung des Schwungrades wird der Verdrängerkolben nach links bewegt. Er drängt die heiße Luft in den kalten Zylinderteil. Der Verdrängerkolben nimmt dabei Energie aus der Luft auf. Ihre Temperatur sinkt auf T_2.
