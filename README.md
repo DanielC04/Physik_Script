@@ -1,16 +1,9 @@
-# 17.Januar 2022
 ## Stirling Motor
 1. Die unter Druck stehende Luft im Zylinder dehnt sich aus. Sie schiebt dabei den Arbeitskolben nach rechts. Die für diese Arbeit nötige Energie wird der Luft durch die Heizung zugeführt. Daher kühlt sich die Luft nicth ab; ihre Temperatur ist konstant (T_1). Der Verdrängerkolben bewegt sich kaum.
 2. Der Arbeitskolben befindet sich äußerst rechts und bewegt sich praktisch nicht. Durch die Drehung des Schwungrades wird der Verdrängerkolben nach links bewegt. Er drängt die heiße Luft in den kalten Zylinderteil. Der Verdrängerkolben nimmt dabei Energie aus der Luft auf. Ihre Temperatur sinkt auf T_2.
 3. Jetzt bewegt sich der Arbeitskolben nach links. Die Luft wird kompremiert. Anders alsbei der Luftpumpe wird sie dabei nicht erwärmt, weil Energie über die Kührlrippen abgeführt wird. Die Temperatur bleibt konstant (T_2). Der Verdrängerkolben bleibt in seiner Position.
 4. Der Arbeitskolben ist wieder in Ruhe. Der Verdrängerkolben schiebt die (kompremierte) Luft in den heißen Zylinderteil zurück. Die Luft nimmt die im Verdrängerkolben gespeicherte Energie wieder auf. Ihre gespeicherte Temperatur steigt auf T_1. Der Vorgang beginnt von vorne.
 
-# 14.März
-- So ganz viel Lichtkram
-- Na-Licht macht schatten, wenn es durch Na-Flamme geht
-
----- 
-## Wichtig für's Script
 ## Fydberg-Frequenz
 Wellenlängen von Emissionslinien
 $$ f = f_{Ry} \cdot (\frac{1}{m^2} - \frac{1}{n^2}) $$
